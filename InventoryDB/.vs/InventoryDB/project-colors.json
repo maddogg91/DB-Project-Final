@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04566b5b-cf49-40c7-8750-22627f46bcc4": {
+      "ProjectGuid": "04566b5b-cf49-40c7-8750-22627f46bcc4",
+      "DisplayName": "InventoryDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

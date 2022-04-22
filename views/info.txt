@@ -1,0 +1,27 @@
+LOGIN INFO
+
+CREATE LOGOUT BUTTON
+ADD location info for STAFF
+Add store selection for customers
+ADD sign up
+look into inventory
+
+SELECT last id from registration and add 1
+
+
+ADMIN----> 
+9079011
+password
+
+
+
+STAFF---->
+9079018
+YuXnSxO
+
+
+
+
+CUSTOMER--->
+1079018
+jfJIDJi9
